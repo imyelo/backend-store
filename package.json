@@ -1,0 +1,9 @@
+{
+  "name": "backend-store",
+  "package": "0.1.0",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.19.0",
+    "sinon": "^1.10.0"
+  }
+}
